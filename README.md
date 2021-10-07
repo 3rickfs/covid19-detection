@@ -2,4 +2,4 @@
 This is an intent for developing a web app with node-red including an VGG16 model trained with kaggle's real xray chest images dataset
 
 #An overview of the project
-![mle](/programs/esquema.PNG)
+![esquema](programs/esquema.PNG)
